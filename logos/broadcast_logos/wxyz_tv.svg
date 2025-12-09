@@ -1,0 +1,676 @@
+<svg height="289.20781619774397" id="svg8" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)" sodipodi:docname="WXYZ_2021.svg" version="1.1" viewBox="0 0 214.04284 178.83668" width="345.77212094304406" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs2">
+    <linearGradient gradientTransform="matrix(0.14783363,0,0,0.14783363,-248.06483,-26.166553)" gradientUnits="userSpaceOnUse" id="id13" x1="2059.2" x2="2183.2" xlink:href="#id2" y1="970.38202" y2="866.21698"/>
+    <linearGradient gradientTransform="matrix(0.14783362,0,0,0.14783362,-248.06483,-26.16656)" gradientUnits="userSpaceOnUse" id="id11" x1="2055.48" x2="2203.8601" xlink:href="#id0" y1="659.16101" y2="659.16101"/>
+    <linearGradient gradientTransform="matrix(0.14783363,0,0,0.14783363,-248.06483,-26.166553)" gradientUnits="userSpaceOnUse" id="id9" x1="2345.96" x2="2253.23" xlink:href="#id0" y1="517.16101" y2="1042.63"/>
+    <linearGradient gradientTransform="matrix(0.14783363,0,0,0.14783363,-248.06483,-26.166553)" gradientUnits="userSpaceOnUse" id="id7" x1="2647.24" x2="2419.49" xlink:href="#id0" y1="1037.47" y2="829.89398"/>
+    <linearGradient gradientTransform="matrix(0.14783363,0,0,0.14783363,-248.06483,-26.166553)" gradientUnits="userSpaceOnUse" id="id5" x1="2318.8101" x2="2232.78" xlink:href="#id4" y1="701.83899" y2="825.60999"/>
+    <linearGradient gradientUnits="userSpaceOnUse" id="id4" x1="2318.8101" x2="2232.78" y1="2653.22" y2="2776.99">
+      <stop id="stop3525" offset="0" style="stop-color:#292929"/>
+      <stop id="stop3527" offset="1" style="stop-color:#A2A49F"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.14783362,0,0,0.14783362,-248.06483,-26.16656)" gradientUnits="userSpaceOnUse" id="id3" x1="1874.1" x2="2722.3301" xlink:href="#id2" y1="245.46899" y2="1318.12"/>
+    <linearGradient gradientUnits="userSpaceOnUse" id="id2" x1="1874.1" x2="2722.3301" y1="2196.8501" y2="3269.5">
+      <stop id="stop3519" offset="0" style="stop-color:#FEFEFE"/>
+      <stop id="stop3521" offset="1" style="stop-color:#A2A49F"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.14783363,0,0,0.14783363,-248.06483,-26.166553)" gradientUnits="userSpaceOnUse" id="id1" x1="2299.6001" x2="2299.6001" xlink:href="#id0" y1="498.57501" y2="366.409"/>
+    <linearGradient gradientUnits="userSpaceOnUse" id="id0" x1="2299.6001" x2="2299.6001" y1="2449.97" y2="2317.79">
+      <stop id="stop3513" offset="0" style="stop-color:#FEFEFE"/>
+      <stop id="stop3515" offset="1" style="stop-color:#292929"/>
+    </linearGradient>
+    <style id="style3510" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-7" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-5" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-6">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-0" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-4" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-6" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-8">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-08" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-9" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-7" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-0">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-8" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-1" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-36" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <clipPath id="clipPath16">
+      <path d="M 0,432 H 432 V 0 H 0 Z" id="path18" inkscape:connector-curvature="0"/>
+    </clipPath>
+    <style id="style3510-92" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-2" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-89">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-7" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-7-3" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <clipPath id="clipPath16-7">
+      <path d="M 0,432 H 432 V 0 H 0 Z" id="path18-8" inkscape:connector-curvature="0"/>
+    </clipPath>
+    <style id="style3156-5-6" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-6-1">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-0-2" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <clipPath id="clipPath16-3-1">
+      <path d="M 0,432 H 432 V 0 H 0 Z" id="path18-6-9" inkscape:connector-curvature="0"/>
+    </clipPath>
+    <style id="style3510-4-9" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-6-3" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-8-1">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-08-9" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-9-4" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3156-7-7" type="text/css">
+   
+    .fil0 {fill:#140F10;fill-rule:nonzero}
+   
+  </style>
+    <style id="style5439-0-8">.cls-1{isolation:isolate;}.cls-2{opacity:0.7;}.cls-2,.cls-3,.cls-8{mix-blend-mode:multiply;}.cls-3{opacity:0.76;}.cls-4{fill:#fff;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:#000e6a;}.cls-7{opacity:0.4;fill:url(#linear-gradient);}.cls-8{opacity:0.75;}.cls-11,.cls-9{fill:none;}.cls-9{stroke:#000;stroke-width:2.22px;}.cls-10{mix-blend-mode:screen;fill:url(#linear-gradient-2);}.cls-12{fill:url(#linear-gradient-3);}.cls-13{fill:#09191e;}.cls-14{fill:url(#linear-gradient-4);}.cls-15{fill:url(#linear-gradient-5);}.cls-16{fill:url(#linear-gradient-6);}.cls-17{fill:url(#linear-gradient-7);}.cls-18{fill:url(#linear-gradient-8);}.cls-19{fill:#423f3f;}.cls-20{fill:#413e3e;}.cls-21{fill:#403e3d;}.cls-22{fill:#403d3d;}.cls-23{fill:#3f3d3c;}.cls-24{fill:#3f3c3c;}.cls-25{fill:#3e3c3b;}.cls-26{fill:#3e3b3b;}.cls-27{fill:#3d3b3a;}.cls-28{fill:#3d3a3a;}.cls-29{fill:#3c3a39;}.cls-30{fill:#3c3939;}.cls-31{fill:#3b3938;}.cls-32{fill:#3b3838;}.cls-33{fill:#3a3837;}.cls-34{fill:#3a3737;}.cls-35{fill:#393736;}.cls-36{fill:#393636;}.cls-37{fill:#383635;}.cls-38{fill:#383535;}.cls-39{fill:#373534;}.cls-40{fill:#373434;}.cls-41{fill:#363433;}.cls-42{fill:#363333;}.cls-43{fill:#353332;}.cls-44{fill:#353232;}.cls-45{fill:#343231;}.cls-46{fill:#343131;}.cls-47{fill:#333130;}.cls-48{fill:#333030;}.cls-49{fill:#32302f;}.cls-50{fill:#322f2f;}.cls-51{fill:#312f2e;}.cls-52{fill:#312e2e;}.cls-53{fill:#302e2d;}.cls-54{fill:#302d2d;}.cls-55{fill:#2f2d2c;}.cls-56{fill:#2f2c2c;}.cls-57{fill:#2e2c2b;}.cls-58{fill:#2e2b2b;}.cls-59{fill:#2d2b2a;}.cls-60{fill:#2d2a2a;}.cls-61{fill:#2c2a29;}.cls-62{fill:#2c2929;}.cls-63{fill:#2b2928;}.cls-64{fill:#2b2828;}.cls-65{fill:#2a2827;}.cls-66{fill:#292726;}.cls-67{fill:#3b3939;}.cls-68{fill:#3a3939;}.cls-69{fill:#3a3838;}.cls-70{fill:#393838;}.cls-71{fill:#393737;}.cls-72{fill:#383737;}.cls-73{fill:#383636;}.cls-74{fill:#373636;}.cls-75{fill:#373535;}.cls-76{fill:#363535;}.cls-77{fill:#363434;}.cls-78{fill:#353434;}.cls-79{fill:#353333;}.cls-80{fill:#343333;}.cls-81{fill:#343232;}.cls-82{fill:#333232;}.cls-83{fill:#333131;}.cls-84{fill:#323131;}.cls-85{fill:#323030;}.cls-86{fill:#313030;}.cls-87{fill:#312f2f;}.cls-88{fill:#302f2f;}.cls-89{fill:#302e2e;}.cls-90{fill:#2f2e2e;}.cls-91{fill:#2f2d2d;}.cls-92{fill:#2e2d2d;}.cls-93{fill:#2e2c2c;}.cls-94{fill:#2d2c2c;}.cls-95{fill:#2d2b2b;}.cls-96{fill:#2c2b2b;}.cls-97{fill:#2c2a2a;}.cls-98{fill:#2b2a2a;}.cls-99{fill:#2b2929;}.cls-100{fill:#2a2929;}.cls-101{fill:#2a2828;}.cls-102{fill:#292828;}.cls-103{fill:#292727;}.cls-104{fill:#282727;}.cls-105{fill:#282626;}.cls-106{fill:#272626;}.cls-107{fill:#272525;}.cls-108{fill:#262525;}.cls-109{fill:#262424;}.cls-110{fill:#252424;}.cls-111{fill:#252323;}.cls-112{fill:#242323;}.cls-113{fill:#242222;}.cls-114{fill:#232222;}.cls-115{fill:#232121;}.cls-116{fill:#222121;}.cls-117{fill:#222020;}.cls-118{fill:#212020;}.cls-119{fill:#201f1f;}.cls-120{fill:#1f1e1e;}.cls-121{fill:#1e1d1d;}.cls-122{fill:#1d1c1c;}.cls-123{fill:#1c1b1b;}.cls-124{fill:#1b1a1a;}.cls-125{fill:#1a1919;}.cls-126{fill:#191919;}.cls-127{fill:#191818;}.cls-128{fill:#181818;}.cls-129{fill:#181717;}.cls-130{fill:#171717;}.cls-131{fill:#171616;}.cls-132{fill:#161616;}.cls-133{fill:#161515;}.cls-134{fill:#151515;}.cls-135{fill:#151414;}.cls-136{fill:#141414;}.cls-137{fill:#141313;}.cls-138{fill:#131313;}.cls-139{fill:#131212;}.cls-140{fill:#121212;}.cls-141{fill:#121111;}.cls-142{fill:#111;}.cls-143{fill:#111010;}.cls-144{fill:#101010;}.cls-145{fill:#100f0f;}.cls-146{fill:#0f0f0f;}.cls-147{fill:#0f0e0e;}.cls-148{fill:#0e0e0e;}.cls-149{fill:#0e0d0d;}.cls-150{fill:#0d0d0d;}.cls-151{fill:#0d0c0c;}.cls-152{fill:#0c0c0c;}.cls-153{fill:#0c0b0b;}.cls-154{fill:#0b0b0b;}.cls-155{fill:#0b0a0a;}.cls-156{fill:#0a0a0a;}.cls-157{fill:#0a0909;}.cls-158{fill:#090909;}.cls-159{fill:#090808;}.cls-160{fill:#080808;}.cls-161{fill:#080707;}.cls-162{fill:#070707;}.cls-163{fill:#070606;}.cls-164{fill:#060606;}.cls-165{fill:#060505;}.cls-166{fill:#050505;}.cls-167{fill:#050404;}.cls-168{fill:#040404;}.cls-169{fill:#040303;}.cls-170{fill:#030303;}.cls-171{fill:#030202;}.cls-172{fill:#020202;}.cls-173{fill:#020101;}.cls-174{fill:#010101;}.cls-175{fill:#010000;}.cls-176{fill:url(#linear-gradient-9);}.cls-177{fill:url(#radial-gradient-2);}</style>
+    <style id="style3510-3-8-4" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <style id="style3510-39" type="text/css">
+   
+    @font-face { font-family:&quot;Century Gothic&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .fil0 {fill:#ED3237}
+    .fil17 {fill:#373435;fill-rule:nonzero}
+    .fil8 {fill:#292929;fill-rule:nonzero}
+    .fil10 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil1 {fill:#131A8C;fill-rule:nonzero}
+    .fil2 {fill:#A2A49F;fill-rule:nonzero}
+    .fil14 {fill:url(#id0);fill-rule:nonzero}
+    .fil5 {fill:url(#id1);fill-rule:nonzero}
+    .fil12 {fill:url(#id2);fill-rule:nonzero}
+    .fil3 {fill:url(#id3);fill-rule:nonzero}
+    .fil19 {fill:url(#id4);fill-rule:nonzero}
+    .fil11 {fill:url(#id5);fill-rule:nonzero}
+    .fil16 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil4 {fill:url(#id9);fill-rule:nonzero}
+    .fil18 {fill:url(#id10);fill-rule:nonzero}
+    .fil9 {fill:url(#id11);fill-rule:nonzero}
+    .fil15 {fill:url(#id12);fill-rule:nonzero}
+    .fil6 {fill:url(#id13);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:152.776;font-family:'Century Gothic'}
+   
+  </style>
+    <clipPath id="clipPath16-4">
+      <path d="M 0,432 H 432 V 0 H 0 Z" id="path18-1" inkscape:connector-curvature="0"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="svg8" inkscape:cx="429.87698" inkscape:cy="291.28185" inkscape:document-units="mm" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="703" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.49497475" pagecolor="#6b6b6b" showgrid="false"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="_303930832" style="fill-rule:evenodd;stroke:none" transform="matrix(0.07115431,0,0,0.07115431,-119.39694,79.880943)"/>
+  <path class="fil1" d="m 164.01431,89.477399 c 0,39.175931 -31.78423,70.960161 -70.960151,70.960161 -39.175906,0 -70.960137,-31.78423 -70.960137,-70.960161 0,-39.175907 31.784231,-70.960141 70.960137,-70.960141 39.175921,0 70.960151,31.784234 70.960151,70.960141 z" id="path3550" inkscape:connector-curvature="0" style="fill:#0053a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil3" d="m 91.656839,0.7391671 c -50.411265,0 -91.509015,39.7672529 -91.509015,88.7001699 0,48.932933 41.09775,88.700183 91.509015,88.700183 50.411271,0 91.509011,-39.76725 91.509011,-88.700183 0,-48.932917 -41.09774,-88.7001699 -91.509011,-88.7001699 z m 6.35685,149.3119629 v 0 c -0.14785,-2.66101 -0.29567,-5.17418 -0.29567,-7.53952 0,-16.7052 3.695841,-30.89722 11.087521,-42.13258 9.16569,-13.896353 23.80122,-23.062044 43.61092,-27.349208 0.887,5.321999 1.47834,10.34835 1.47834,15.226855 0,16.261693 -5.02635,30.158063 -14.9312,41.097753 -12.86152,14.33986 -31.04506,20.40103 -40.802081,20.54888 z M 46.715417,47.0111 v 0 C 57.655106,35.923564 73.768971,29.123214 90.474169,28.827564 107.77071,28.531894 123.73674,34.888729 136.3026,47.0111 c -7.68735,0 -82.047668,0 -89.43935,0 z m 23.357713,99.19636 v 0 C 52.924429,139.40711 40.949906,129.35443 34.593061,116.19722 30.897219,108.65771 29.123215,99.935533 29.123215,90.474172 c 0,-5.91334 0.739169,-12.122351 2.217505,-18.774856 2.661004,0 57.063779,-0.147928 66.229469,-0.147928 C 79.238815,86.334748 70.07313,110.2838 70.07313,142.8072 c 0,0 0,1.62618 0,3.10451 z" id="path3552" inkscape:connector-curvature="0" style="fill:url(#id3);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil4" d="M 91.952519,0 C 41.245583,0 0,40.062913 0,89.143678 c 0,49.228602 41.245583,89.143682 91.952519,89.143682 50.706931,0 91.952521,-40.06292 91.952521,-89.143682 C 183.90504,39.91508 142.65945,0 91.952519,0 Z m 0,176.66119 v 0 c -49.524267,0 -89.735014,-39.02808 -89.735014,-86.926177 0,-47.898096 40.210747,-86.926174 89.735014,-86.926174 49.524271,0 89.735011,39.028078 89.735011,86.926174 0,47.898097 -40.21074,86.926177 -89.735011,86.926177 z" id="path3556" inkscape:connector-curvature="0" style="fill:url(#id9);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil5" d="m 90.769849,27.053554 c -18.922705,0.443501 -36.66274,8.57435 -47.898096,21.879377 3.843674,0 94.170027,0 98.161527,0 C 127.87609,34.445235 110.13606,26.757887 90.769849,27.053554 Z M 49.524266,45.828425 v 0 c 10.644022,-9.904853 25.575218,-15.966032 41.393413,-16.261699 16.261701,-0.295668 31.340731,5.469844 43.315261,16.261699 -13.1572,0 -71.847148,0 -84.708674,0 z" id="path3558" inkscape:connector-curvature="0" style="fill:url(#id1);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil6" d="m 30.158061,70.220974 c -1.62617,7.243848 -2.513172,14.044195 -2.513172,20.548874 0,9.757022 1.921837,18.627042 5.765512,26.462222 6.94818,14.33986 20.105373,24.98388 39.028078,31.93206 0,-0.4435 0,-1.03483 0,-1.03483 0,-1.62617 0,-3.25234 0,-4.87851 0,-34.44524 10.496188,-59.133455 31.192901,-73.17765 -5.469851,0 -71.847149,0.147834 -73.177652,0.147834 z m 39.323745,72.142816 v 0 c 0,0.59133 0,1.18266 0,1.774 -30.15806,-12.41803 -38.880244,-33.70607 -38.880244,-53.959276 0,-6.061179 0.739168,-11.974524 2.06967,-17.740036 4.582843,0 47.158928,0 62.681457,-0.147833 C 78.20399,87.369675 69.62964,110.72739 69.62964,142.36379 Z" id="path3560" inkscape:connector-curvature="0" style="fill:url(#id13);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil7" d="m 107.91855,99.639866 c -7.53951,11.531024 -11.383191,26.018724 -11.383191,43.019584 0,2.95668 0.14784,6.06118 0.4435,9.31352 9.757021,0.59134 29.862401,-5.46984 43.906591,-20.99237 10.20052,-11.38319 15.52253,-25.72306 15.52253,-42.280422 0,-5.617678 -0.59133,-11.38319 -1.774,-17.444369 -21.14021,4.139342 -36.81058,13.748528 -46.5676,28.531891 z m 30.60156,28.679724 v 0 c -12.71369,14.0442 -30.01022,19.51404 -39.028081,20.10537 -0.14783,-2.2175 -0.14783,-4.28717 -0.14783,-6.50468 0,-27.79272 10.348351,-58.542113 52.776611,-68.003465 0.887,5.026343 1.3305,9.904853 1.3305,14.487695 0,15.67037 -4.87851,29.12323 -14.78336,39.91508 z" id="path3562" inkscape:connector-curvature="0" style="fill:url(#id7);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <g id="g3564" style="fill-rule:evenodd;stroke:none" transform="matrix(0.07115431,0,0,0.07115431,-119.39694,79.880943)"/>
+  <g id="g3574" style="fill-rule:evenodd;stroke:none" transform="matrix(0.07115431,0,0,0.07115431,-119.39694,79.880943)"/>
+  <path class="fil9" d="m 100.23119,72.438481 c 1.03484,-0.739165 2.06967,-1.47835 3.10451,-2.217515 -5.469851,0 -71.699312,0.147928 -73.17765,0.147928 0,0 2.513173,2.217495 2.513173,2.217495 h 67.559967 z" id="path3590" inkscape:connector-curvature="0" style="fill:url(#id11);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil10" d="m 152.85996,71.699316 c -0.59133,0.88699 -1.18267,1.774 -1.92183,2.66099 0.29566,-0.147929 0.73916,-0.147929 1.03483,-0.295649 0.887,5.026329 1.3305,9.904834 1.3305,14.48769 0,15.670353 -4.87851,29.123223 -14.78336,39.915073 -12.71369,14.04419 -30.01022,19.51404 -39.028081,20.10538 0,0 0,0 0,0 -1.62617,2.36534 -2.51317,3.69585 -2.51317,3.69585 9.757021,0.59131 29.862391,-5.46985 43.906591,-20.9924 10.20052,-11.38318 15.52253,-25.72305 15.52253,-42.280408 0,-5.61767 -0.59133,-11.383186 -1.774,-17.444371 -0.59134,0.147928 -1.18267,0.29567 -1.62617,0.29567 z" id="path3592" inkscape:connector-curvature="0" style="fill:#fefefe;fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <path class="fil11" d="M 95.204859,72.290645 C 86.926179,79.534492 80.717162,88.700178 76.429987,99.7877 l 2.661005,1.18267 C 83.821669,88.995845 90.769849,79.386659 100.08337,72.142811 h -5.026341 z" id="path3596" inkscape:connector-curvature="0" style="fill:url(#id5);fill-rule:nonzero;stroke:none;stroke-width:0.14783363"/>
+  <g id="_303934216" style="fill-rule:evenodd;stroke:none" transform="matrix(0.07115431,0,0,0.07115431,-119.39694,79.880943)">
+    <g id="g3603" style="stroke:none"/>
+    <g id="g3613" style="stroke:none"/>
+    <g id="g3623" style="stroke:none"/>
+    <g id="g3643" style="stroke:none"/>
+  </g>
+  <g id="g2989" style="stroke:none" transform="matrix(1.3513392,0,0,1.3513392,-40.648852,-58.451855)">
+    <path d="m 188.47355,138.30879 a 37.28631,37.28631 0 0 1 -37.28631,37.28631 37.28631,37.28631 0 0 1 -37.28631,-37.28631 37.28631,37.28631 0 0 1 37.28631,-37.28631 37.28631,37.28631 0 0 1 37.28631,37.28631 z" id="path2983" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#202033;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.07457262"/>
+    <path class="st1" d="m 140.9089,123.05347 v 15.268 c 0,5.65111 4.58099,10.23211 10.23211,10.23211 5.65111,0 10.23211,-4.581 10.23211,-10.23211 0,-5.65111 -4.581,-10.23211 -10.23211,-10.23211 -1.56006,0.002 -3.17531,0.49889 -4.49972,1.396 v -6.43189 z m 10.23211,10.76829 c 2.4855,0 4.49971,2.01495 4.49971,4.50046 0,2.4855 -2.01495,4.49971 -4.49971,4.49971 -2.48551,0 -4.49972,-2.01495 -4.49972,-4.49971 0,-2.48626 2.01421,-4.50046 4.49972,-4.50046 z m -11.66242,14.55881 v -10.0591 c 0,-5.65111 -4.58099,-10.23211 -10.23211,-10.23211 -5.65111,0 -10.2321,4.581 -10.2321,10.23211 0,5.65111 4.58099,10.23211 10.2321,10.23211 1.66745,-0.002 3.39604,-0.71068 4.61381,-1.88893 v 1.71592 z m -10.23211,-5.55939 c -2.4855,0 -4.49971,-2.01495 -4.49971,-4.50046 0,-2.4855 2.01496,-4.49971 4.49971,-4.49971 2.48551,0 4.49972,2.01495 4.49972,4.49971 0,2.48626 -2.01495,4.50046 -4.49972,4.50046 z m 43.83379,-14.73182 c -5.65111,0 -10.23211,4.581 -10.23211,10.23211 0,5.65111 4.581,10.23211 10.23211,10.23211 5.11941,-0.006 9.44686,-3.795 10.12845,-8.86818 h -5.83978 c -0.57793,1.81883 -2.27894,3.13653 -4.28867,3.13653 -2.4855,0 -4.49971,-2.01496 -4.49971,-4.49971 0,-2.48551 2.01495,-4.49972 4.49971,-4.50046 2.00973,0 3.71148,1.3177 4.28867,3.13652 h 5.84053 c -0.68234,-5.07466 -5.00979,-8.86295 -10.1292,-8.86892 z" id="path2985" inkscape:connector-curvature="0" style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.07457262"/>
+  </g>
+  <g id="_303930832-6" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.16082006,0,0,0.16082006,-548.98987,117.90855)"/>
+  <g id="g3554" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.16082006,0,0,0.16082006,-548.98987,117.90855)"/>
+  <g id="g3594" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.16082006,0,0,0.16082006,-548.98987,117.90855)"/>
+  <g id="_303934216-8" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.16082006,0,0,0.16082006,-548.98987,117.90855)">
+    <g id="g3603-7" style="fill:#000000;stroke:none"/>
+    <g id="g3613-9" style="fill:#000000;stroke:none"/>
+    <g id="g3623-2" style="fill:#000000;stroke:none"/>
+    <g id="g3643-0" style="fill:#000000;stroke:none"/>
+  </g>
+  <g id="layer1-9" inkscape:label="Layer 1" style="fill:#000000;stroke:none" transform="matrix(0.26458333,0,0,0.26458333,-376.53641,131.53858)">
+    <g id="g10" style="fill:#000000;stroke:none" transform="matrix(1.25,0,0,-1.25,41.566641,1101.6688)">
+      <g id="g12" style="fill:#000000;stroke:none">
+        <g clip-path="url(#clipPath16)" id="g14" style="fill:#000000;stroke:none"/>
+      </g>
+    </g>
+  </g>
+  <style id="style1220" type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#202033;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+  <g id="g3603-3" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="g3613-61" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="g3623-0" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="g3643-6" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="g3554-32" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="g3594-0" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-50.46306,60.739953)"/>
+  <g id="layer1-9-6" inkscape:label="Layer 1" style="stroke:none" transform="matrix(0.1626241,0,0,0.1626241,55.53412,69.117546)">
+    <g id="g10-1" style="stroke:none" transform="matrix(1.25,0,0,-1.25,41.566641,1101.6688)">
+      <g id="g12-5" style="stroke:none">
+        <g clip-path="url(#clipPath16-7)" id="g14-5" style="stroke:none"/>
+      </g>
+    </g>
+  </g>
+  <g id="g1651" style="stroke:none" transform="matrix(0.14274742,0,0,0.14359695,193.51508,143.15052)"/>
+  <g id="abc_Base" style="isolation:isolate;stroke:none" transform="matrix(0.1626241,0,0,0.1626241,-218.18965,177.12147)"/>
+  <g id="_303930832-4" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-305.1324,0.461379)"/>
+  <g id="g3554-3" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-305.1324,0.461379)"/>
+  <g id="g3594-2" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-305.1324,0.461379)"/>
+  <g id="_303934216-7" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,-305.1324,0.461379)">
+    <g id="g3603-0" style="stroke:none"/>
+    <g id="g3613-6" style="stroke:none"/>
+    <g id="g3623-1" style="stroke:none"/>
+    <g id="g3643-5" style="stroke:none"/>
+  </g>
+  <g id="layer1-9-5" inkscape:label="Layer 1" style="stroke:none" transform="matrix(0.1626241,0,0,0.1626241,-110.66771,65.432155)">
+    <g id="g10-4" style="stroke:none" transform="matrix(1.25,0,0,-1.25,41.566641,1101.6688)">
+      <g id="g12-7" style="stroke:none">
+        <g clip-path="url(#clipPath16-3-1)" id="g14-6" style="stroke:none"/>
+      </g>
+    </g>
+  </g>
+  <g id="g10234" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,206.39775,-52.515699)"/>
+  <g id="g10238" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,206.39775,-52.515699)"/>
+  <g id="g10266" style="fill:#000000;fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,206.39775,-52.515699)"/>
+  <g id="g10278" style="fill-rule:evenodd;stroke:none" transform="matrix(0.09884681,0,0,0.09884681,206.39775,-52.515699)">
+    <g id="g10270" style="stroke:none"/>
+    <g id="g10272" style="stroke:none"/>
+    <g id="g10274" style="stroke:none"/>
+    <g id="g10276" style="stroke:none"/>
+  </g>
+  <g id="g10290" inkscape:label="Layer 1" style="stroke:none" transform="matrix(0.1626241,0,0,0.1626241,312.39494,-44.138119)">
+    <g id="g10288" style="stroke:none" transform="matrix(1.25,0,0,-1.25,41.566641,1101.6688)">
+      <g id="g10286" style="stroke:none">
+        <g clip-path="url(#clipPath16-4)" id="g10284" style="stroke:none"/>
+      </g>
+    </g>
+  </g>
+</svg>
